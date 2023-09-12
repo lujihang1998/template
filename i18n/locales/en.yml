@@ -1,0 +1,21 @@
+button:
+  add: Add
+  edit: Edit
+  delete: Delte
+  batchDelete: Delete in batches
+  export: Export
+  search: Search
+  reset: Reset
+  about: About
+  back: Back
+  confirm: Confirm
+  home: Home
+  current_langs: Current language {lang}
+label:
+  name: Name
+  date: Date
+  language: Language
+  telephone: Telephone
+  place: Place
+  operation: 'Operation'
+not-found: Not found
